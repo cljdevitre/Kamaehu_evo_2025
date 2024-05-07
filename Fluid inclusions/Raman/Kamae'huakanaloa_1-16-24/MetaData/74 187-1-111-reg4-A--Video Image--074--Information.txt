@@ -1,0 +1,26 @@
+187-1-111-reg4-A--Video Image--074
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	6:55:35 PM
+Start Date: 	Tuesday, January 16, 2024
+Duration: 	0h 0m 0s
+User Name: 	Witec
+Sample Name: 	187-1-111-reg4-A
+
+Video System:
+Objective Name: 	Zeiss LD EC Epiplan-Neofluar Dic 50x / 0.55
+Objective Magnification: 	50
+Image Width [µm]: 	222.337
+Image Height [µm]: 	138.961
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	5.60
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Sample Location (global position):
+Position X [µm]: 	-3704.100
+Position Y [µm]: 	3178.500
+Position Z [µm]: 	0.000
