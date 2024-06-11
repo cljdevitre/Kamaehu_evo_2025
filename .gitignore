@@ -10,7 +10,6 @@ ipynb_checkpoints
 /build/
 *.orig
 *.ini
-/Testing/*
 /2large4GIT/*
 
 
