@@ -1,0 +1,8 @@
+meta_path=/Users/cljd/pCloud Drive/WORK-GENERAL/POSTDOC-UCB/BERKELEY-VIBE/Documents/Projects/Kamaehu2024/Melt inclusions/Kamae'huakanaloa_MI_8-20-24/MetaData
+spectra_path=/Users/cljd/pCloud Drive/WORK-GENERAL/POSTDOC-UCB/BERKELEY-VIBE/Documents/Projects/Kamaehu2024/Melt inclusions/Kamae'huakanaloa_MI_8-20-24/Spectra
+spectra_filetype=headless_txt
+prefix=True
+prefix_str=' '
+spectra_file_ext=.txt
+meta_file_ext=.txt
+TruPower=True

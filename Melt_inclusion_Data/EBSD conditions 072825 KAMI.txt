@@ -1,0 +1,48 @@
+EBSD conditions 072825 KAMI
+
+22.174 nA 
+insertion distance 155.8 mm
+Ana PC 12 aperture 1
+20kV
+
+For KAMI 1 I did them one by one, varied step size depending on grain 3-10
+For KAMI2 I did whole mount map 5 um step size. 1 Frame. (51s per frame) 250 Mag
+713 fields
+
+create site
+scan image
+optimize pattern
+optimize solver
+check there are at least 9 bands, if 7, crap
+acquire map data, lasso, check settings that it step size 10
+start. 
+
+On some crystals, I bumped up the frame averaging to 2, 3, 5 or 10 depending to improve pattern quality and ensure mads <0.7 in the most extreme but <0.5 whenever possible. 
+
+Did EBSD map of K23 at 155..8 mm insertion
+10 mm elevation
+8 micron 
+
+To do map:
+
+First go to like 25 mm WD,
+focus at the very top of the mount (bottom of Jeol image).
+
+tilt 70
+
+then drive all the way to the topmost, but make sure to be careful of pole piece. Probably drop stage to like 30 mm Z and WD ~29-30. You want the very topmost point to be when the holder is at ~5mm from the pole piece to be safe. 
+Then once you've found that topmost drive down to the bottom most point you will map. focus
+then bring in the detector. Don't get too close. 150 mm ish is probably good. 
+then drop elevation to center pattern. 
+
+Then drive to the estimated corners for your polygon, make sure that you are nowhere near the pole piece or the detector at any of the 4 corners. 
+
+Then go to your topleft corner, focus on the closest grain to that edge, and back tot he corner, then mag to where you want it (eg 230x), select settings for the map (step size) automate, polygon, set hte points. Make sure to focus with Z at each corner. 
+then add to queue. 
+Now that you know how many fields, you can figure out the step size. 
+Go to Scan Image, automate, add selected areas. 
+then Go back to acquire map, in the automation tab, delete the EBSD Map, and then focus at the 230 mag, select the new settings for step size (calculate based on image time + ebsd map time *1.4 for other hardware + software aspects). THEN click automate, add selected areas, make sure it all makes sense. 
+And then add to queue. 
+in setting of automation make sure turn beam off at the end of the run. 
+then click Run. 
+watch for a few fields make sure it's all good. 

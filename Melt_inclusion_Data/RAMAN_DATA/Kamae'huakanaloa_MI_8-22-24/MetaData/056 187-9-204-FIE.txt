@@ -1,0 +1,26 @@
+187-9-204-FID--Video Image--060
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	1:36:02 PM
+Start Date: 	Thursday, August 22, 2024
+Duration: 	0h 0m 0s
+User Name: 	Witec
+Sample Name: 	187-9-204-FID
+
+Video System:
+Objective Name: 	Zeiss LD EC Epiplan-Neofluar Dic 100x / 0.75
+Objective Magnification: 	100
+Image Width [µm]: 	109.855
+Image Height [µm]: 	68.659
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	15.70
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Sample Location (global position):
+Position X [µm]: 	1316.600
+Position Y [µm]: 	1320.900
+Position Z [µm]: 	0.000
