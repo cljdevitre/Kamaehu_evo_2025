@@ -1,0 +1,26 @@
+KA79_c331--Video Image--056
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	2:25:11 PM
+Start Date: 	Monday, December 16, 2024
+Duration: 	0h 0m 0s
+User Name: 	Witec
+Sample Name: 	KA79_c331
+
+Video System:
+Objective Name: 	Zeiss EC Epiplan 20x / 0.4
+Objective Magnification: 	20
+Image Width [µm]: 	550.056
+Image Height [µm]: 	343.785
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	0.30
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Sample Location (global position):
+Position X [µm]: 	1803.900
+Position Y [µm]: 	1802.400
+Position Z [µm]: 	0.000

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<AnnotationXmlContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <fMicronsPerPixel>0.2333696</fMicronsPerPixel>
+  <ImageAnnotations />
+  <SimpleAlignmentInformation>
+    <fMicronsPerPixel>0.2333696</fMicronsPerPixel>
+    <ptReferencePoint_px>
+      <X>0</X>
+      <Y>0</Y>
+    </ptReferencePoint_px>
+    <ReferenceMarkers />
+    <RoiMarkers />
+  </SimpleAlignmentInformation>
+</AnnotationXmlContainer>

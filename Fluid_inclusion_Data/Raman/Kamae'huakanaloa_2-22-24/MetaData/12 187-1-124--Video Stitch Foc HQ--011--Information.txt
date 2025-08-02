@@ -1,0 +1,45 @@
+187-1-124--Video Stitch Foc HQ--011
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	1:39:12 PM
+Start Date: 	Thursday, February 22, 2024
+Duration: 	0h 1m 13s
+User Name: 	Witec
+Sample Name: 	187-1-124
+
+Video System:
+Objective Name: 	Zeiss LD EC Epiplan-Neofluar Dic 50x / 0.55
+Objective Magnification: 	50
+Image Width [µm]: 	500.000
+Image Height [µm]: 	500.000
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	6.10
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Focus Stacking Settings:
+Algorithm: 	Continuous Movement
+Number of Images: 	103
+Z Range [µm]: 	-119.720 - 0.000
+
+Stitching Settings:
+Stitching Table: 	Sample Positioner
+
+Size X [Pixel]: 	2159
+Size Y [Pixel]: 	2159
+
+Origin X [µm]: 	66.400
+Origin Y [µm]: 	66.600
+Origin Z [µm]: 	-58.810
+Gamma [°]: 	0.0
+
+Number of Stitching Images: 	16
+Number of Stitching Images X: 	4
+Number of Stitching Images Y: 	4
+
+Scan Table:
+Position X [µm]: 	0.000
+Position Y [µm]: 	0.000

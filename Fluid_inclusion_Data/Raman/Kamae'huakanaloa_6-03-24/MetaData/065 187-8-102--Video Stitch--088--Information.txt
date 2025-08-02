@@ -1,0 +1,40 @@
+187-8-102--Video Stitch--088
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	1:43:44 PM
+Start Date: 	Monday, June 3, 2024
+Duration: 	0h 0m 15s
+User Name: 	Witec
+Sample Name: 	187-8-102
+
+Video System:
+Objective Name: 	Zeiss LD EC Epiplan-Neofluar Dic 50x / 0.55
+Objective Magnification: 	50
+Image Width [µm]: 	754.289
+Image Height [µm]: 	754.289
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	7.90
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Stitching Settings:
+Stitching Table: 	Sample Positioner
+
+Size X [Pixel]: 	1024
+Size Y [Pixel]: 	1024
+
+Origin X [µm]: 	-252.400
+Origin Y [µm]: 	-10.400
+Origin Z [µm]: 	17.010
+Gamma [°]: 	0.0
+
+Number of Stitching Images: 	36
+Number of Stitching Images X: 	6
+Number of Stitching Images Y: 	6
+
+Scan Table:
+Position X [µm]: 	0.000
+Position Y [µm]: 	0.000

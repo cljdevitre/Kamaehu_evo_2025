@@ -1,0 +1,40 @@
+UNK_1--Video Stitch HQ--008
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	12:20:59 PM
+Start Date: 	Tuesday, September 3, 2024
+Duration: 	0h 0m 2s
+User Name: 	Witec
+Sample Name: 	UNK_1
+
+Video System:
+Objective Name: 	Zeiss EC Epiplan 20x / 0.4
+Objective Magnification: 	20
+Image Width [µm]: 	608.459
+Image Height [µm]: 	608.459
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	0.00
+
+Illumination:
+Reflection Light [%]: 	1.21
+Transmission Light [%]: 	Off
+
+Stitching Settings:
+Stitching Table: 	Sample Positioner
+
+Size X [Pixel]: 	2148
+Size Y [Pixel]: 	2148
+
+Origin X [µm]: 	2390.300
+Origin Y [µm]: 	2761.200
+Origin Z [µm]: 	0.000
+Gamma [°]: 	0.0
+
+Number of Stitching Images: 	4
+Number of Stitching Images X: 	2
+Number of Stitching Images Y: 	2
+
+Scan Table:
+Position X [µm]: 	0.000
+Position Y [µm]: 	0.000

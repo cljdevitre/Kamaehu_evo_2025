@@ -1,0 +1,40 @@
+KA69_c301--Video Stitch HQ--066
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	3:39:53 PM
+Start Date: 	Tuesday, December 17, 2024
+Duration: 	0h 0m 2s
+User Name: 	Witec
+Sample Name: 	KA69_c301
+
+Video System:
+Objective Name: 	Zeiss EC Epiplan 20x / 0.4
+Objective Magnification: 	20
+Image Width [µm]: 	616.682
+Image Height [µm]: 	616.682
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	6.80
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Stitching Settings:
+Stitching Table: 	Sample Positioner
+
+Size X [Pixel]: 	2153
+Size Y [Pixel]: 	2153
+
+Origin X [µm]: 	70.200
+Origin Y [µm]: 	-81.500
+Origin Z [µm]: 	0.000
+Gamma [°]: 	0.0
+
+Number of Stitching Images: 	4
+Number of Stitching Images X: 	2
+Number of Stitching Images Y: 	2
+
+Scan Table:
+Position X [µm]: 	0.000
+Position Y [µm]: 	0.000

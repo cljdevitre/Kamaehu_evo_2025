@@ -1,0 +1,26 @@
+L11-m1-B--Video Image--074
+
+General:
+System ID: 	100-1200-2200
+Start Time: 	3:36:51 PM
+Start Date: 	Tuesday, July 16, 2024
+Duration: 	0h 0m 0s
+User Name: 	Witec
+Sample Name: 	L11-m1-B
+
+Video System:
+Objective Name: 	Zeiss LD EC Epiplan-Neofluar Dic 100x / 0.75
+Objective Magnification: 	100
+Image Width [µm]: 	111.496
+Image Height [µm]: 	69.685
+Camera Exposure [s]: 	1/25
+Camera Gain [dB]: 	16.30
+
+Illumination:
+Reflection Light [%]: 	Off
+Transmission Light [%]: 	100.00
+
+Sample Location (global position):
+Position X [µm]: 	-722.600
+Position Y [µm]: 	-458.200
+Position Z [µm]: 	0.000
